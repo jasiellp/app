@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702394198672",
+    "firebase_url": "https://mgourmet-89170.firebaseio.com",
+    "project_id": "mgourmet-89170",
+    "storage_bucket": "mgourmet-89170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702394198672:android:3dd2fd31d75bd6b9",
+        "android_client_info": {
+          "package_name": "io.market.nativebase.geekyants.flutter.foodorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702394198672-ig472tfbmvb8ud7qb6nv018o67qu777d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMyJWGVokJSu1-nsxRc7jpNSEPS5pH1VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702394198672-ig472tfbmvb8ud7qb6nv018o67qu777d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702394198672-lalii1gossbea0354qd39jll7s82ltuh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.market.nativebase.geekyants.flutter.foodorderingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
